@@ -8,7 +8,7 @@ This project showcases an interactive **Streamlit dashboard** for visualizing gr
 - **Sales Insights**: Offers detailed insights into product performance, store statistics, and sales trends.
 - **Dynamic Layout**: The dashboard layout adapts to different screen sizes, making it easy to explore the data interactively.
   
-![Dashboard Screenshot](dash/screenshots/dashhome.png)
+![Dashboard Screenshot](dash/screenshots/dashhome.PNG)
 
 ## Technologies Used
 
