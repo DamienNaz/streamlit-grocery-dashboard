@@ -9,6 +9,8 @@ This project showcases an interactive **Streamlit dashboard** for visualizing gr
 - **Dynamic Layout**: The dashboard layout adapts to different screen sizes, making it easy to explore the data interactively.
   
 ![Dashboard Screenshot](dash/screenshots/dashhome.PNG)
+![Dashboard Screenshot](dash/screenshots/first.PNG)
+![Dashboard Screenshot](dash/screenshots/three.PNG)
 
 ## Technologies Used
 
